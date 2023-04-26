@@ -1,0 +1,1 @@
+document.getElementsByTagName("button").addEventListener("onclick", alert("submited your form"));
